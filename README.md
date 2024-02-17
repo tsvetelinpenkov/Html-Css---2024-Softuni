@@ -1,1 +1,1 @@
-# Html-Css---2024-Softuni
+# SoftUni Course / HTML & CSS 2024
